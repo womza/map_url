@@ -1,0 +1,9 @@
+# Filename: taxonomy.vocabulary.sas_normativa.yml
+langcode: es
+status: true
+dependencies: {  }
+name: 'SAS Normativa'
+vid: sas_normativa
+description: ''
+hierarchy: 0
+weight: 0

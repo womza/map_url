@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * @file
+ * Contains map_url.module file.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function map_url_theme() {
+  return [
+    'map_url' => [
+      'variables' => ['terms' => NULL],
+    ],
+  ];
+}
+
+/**
+ * Implements hook_preprocess_HOOK().
+ */
+function map_url_preprocess_map_url(&$variables) {
+  $variables['base_path'] = drupal_get_path('module', 'map_url');
+}

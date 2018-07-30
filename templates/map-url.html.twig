@@ -1,0 +1,33 @@
+{#
+/**
+ * @file
+ * Cotains map-url.html.twig.
+ */
+#}
+<div class="map-url-block">
+  <ul class="cd-accordion-menu animated">
+    {% for term in terms %}
+      {% if term.children %}
+        <li class="has-children">
+          <input type="checkbox" name ="group-{{ loop.index }}">
+          <a href="{{ term.url }}" target="_blank">
+            <label for="group-{{ loop.index }}">
+              {{ term.name }}
+              <img src="{{ base_path }}/img/arrow-left.svg" width="16px" class="arrow-left">
+              <img src="{{ base_path }}/img/arrow-down.svg" width="16px" class="arrow-down">
+            </label>
+          </a>
+          {% if term.children %}
+            <ul>
+              {% for child in term.children %}
+                <li><a href="{{ child.url }}" target="_blank">{{ child.name }}</a></li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% else %}
+        <li><a href="{{ term.url }}" target="_blank">{{ term.name }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

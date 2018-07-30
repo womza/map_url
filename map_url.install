@@ -1,0 +1,52 @@
+<?php
+
+/**
+ * @file
+ * Contains map_url.install file.
+ */
+
+use \Drupal\taxonomy\Entity\Term;
+
+/**
+ * Implements hook_install().
+ */
+function map_url_install() {
+  _map_url_import_url();
+}
+
+/**
+ * Import all URL from csv file.
+ */
+function _map_url_import_url() {
+  $vid = 'sas_normativa';
+  $terms = Term::loadMultiple();
+  $exists_term = array_filter($terms, function ($v) use ($vid) {
+    /** @var \Drupal\taxonomy\Entity\Term $v */
+    return $v->getVocabularyId() == $vid;
+  });
+  if (empty($exists_term)) {
+    $csv = new \Drupal\map_url\MapUrlImport();
+    $urls = $csv->get();
+
+    // Save parent term.
+    foreach ($urls as $url) {
+      $parent_term = Term::create([
+        'vid' => $vid,
+        'name' => $url['Title'],
+        'parent' => [],
+      ]);
+      $parent_term->set('field_map_url', $url['URL']);
+      $parent_term->save();
+      // Save all children.
+      foreach ($url['children'] as $child) {
+        $term = Term::create([
+          'vid' => $vid,
+          'name' => $child['Title'],
+          'parent' => [$parent_term->id()],
+        ]);
+        $term->set('field_map_url', $child['URL']);
+        $term->save();
+      }
+    }
+  }
+}

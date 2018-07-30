@@ -1,0 +1,4 @@
+map_url.page:
+  title: 'Map Url'
+  description: 'Show a list of URL.'
+  route_name: map_url.page

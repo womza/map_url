@@ -1,0 +1,9 @@
+map_url:
+  css:
+    theme:
+      css/cd-accordion-menu.css: {}
+      css/map_url.css: {}
+  js:
+    js/map_url.js: {}
+  dependencies:
+    - core/jquery

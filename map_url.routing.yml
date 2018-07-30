@@ -1,0 +1,7 @@
+map_url.page:
+  path: '/map-url'
+  defaults:
+    _controller: '\Drupal\map_url\Controller\MapUrlController::index'
+    _title: 'Map URL'
+  requirements:
+    _permission: 'access content'

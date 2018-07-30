@@ -1,0 +1,35 @@
+/**
+ * @file
+ */
+
+.map-url-block ul {
+  list-style: none;
+  padding: 0;
+}
+.map-url-block ul a,
+.map-url-block ul a:hover {
+  border-bottom: none;
+}
+.map-url-block ul a > label {
+  font-weight: normal;
+}
+.map-url-block img {
+  position: relative;
+  top: 4px;
+}
+.map-url-block .arrow-down {
+  display: none;
+}
+.map-url-block > ul > li {
+  display: inline-block;
+  width: 33%;
+  padding-bottom: 25px;
+  vertical-align: top;
+}
+.map-url-block .has-children ul {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.map-url-block .has-children li {
+  padding-bottom: 5px;
+}

@@ -1,0 +1,252 @@
+id;nombre;titulo;url;dependencia
+24;;Hospitales;;257
+25;;Centros de consultas externas;;257
+27;;Centros de salud mental;;257
+28;;Centros de transfusión sanguínea;;257
+30;;Áreas de gestión sanitaria;;257
+31;;Empresas públicas;;257
+32;;Agencias sanitarias;;257
+33;;Entes instrumentales;;257
+228;enlaces;Enlaces de interés;gestioncalidad/enlaces/enlaces.html;527
+229;http://www.andaluciajunta.es;Portal de la Junta de Andalucía;;
+230;http://www.juntadeandalucia.es/salud;Consejería de Salud de la Junta de Andalucía;;
+231;pr_asoc_consumidores;Asociaciones de Consumidores;;
+234;enlaces_asoc;Asociaciones Ciudadanas y Salud;;
+235;enlaces_ois;Organismos de interés Sanitario;;
+236;enlaces_fei;Formación e Investigación;;471
+237;enlaces_sp;Sociedades Profesionales y Organizaciones Sanitarias;;471
+238;enlaces_dyp;Documentación y Publicaciones;;
+239;enlaces_mcys;Medios de Comunicación y Salud;;
+241;http://www.aecc.es/;Asociación Española contra el Cáncer;;234
+242;http://www.cica.es/aliens/samfyc/infor.htm;Diabetes;;234
+243;http://asociacionesclerosistuberosa.org/;Asociación Andaluza de Esclerosis Tuberosa;;234
+246;http://www.fqandalucia.org/;Asociación Andaluza contra la Fibrosis Quística;;234
+248;http://www.trasplantadosdecorazon.es;Asociaciones de Trasplantados de Corazón de Andalucía;;234
+249;http://www.feaps.org/;Confederación Española de Organizaciones en favor de las Personas con Retraso Mental (FEAPS);;234
+250;http://www.cnse.es/;Confederación Nacional de Sordos de España (CNSE);;234
+251;http://www.aspace.org/;Federación Española de Asociaciones de Atención a las Personas con Parálisis Cerebral (ASPACE);;234
+252;http://www.once.es/;Organización Nacional de Ciegos Españoles (ONCE);;234
+253;http://www.feafes.com/;Confederación Española de Agrupaciones de Familiares y Enfermos Mentales (FEAFES);;234
+254;http://www.sindromedown.net/;Federación Española de Instituciones para el Síndrome de Down (FEISD);;234
+255;http://www.autismo.org.es;Confederación Autismo España;;234
+256;http://www.fespau.es/;Federación Española de Padres de Austistas-FESPAU;;234
+257;enlaces_ois_1;Andalucía;;235
+258;enlaces_ois_2;Comunidades Autónomas y Nacionales;;235
+259;enlaces_ois_3;Unión Europea;;235
+260;enlaces_ois_4;Otras Organizaciones;;235
+283;http://www.msc.es/;Ministerio de Sanidad, Política Social e Igualdad;;258
+287;http://www.madrid.org/sanidad;Comunidad de Madrid;;258
+289;http://www.asturias.es/portal/site/astursalud;Consejería de Salud y de Servicios Sanitarios. Principado de Asturias;;258
+291;http://www.aragon.es/DepartamentosOrganismosPublicos/Departamentos/SanidadBienestarSocialFamilia;Gobierno de Aragón -Sanidad-;;258
+294;http://www.osakidetza-svs.org;Osakidetza - Servicio Vasco de Salud;;258
+296;http://www.san.gva.es/;Conselleria de Sanitat i Consum. Generalitat Valenciana;;258
+297;http://www.gencat.net/sanitat/;Departament de Salut. Generalitat Catalunya;;258
+305;http://www.guiafc.com/;Guía de Financiación Comunitaria;;258
+306;"http://www.csic.es/web/guest/home;jsessionid=15B57B7F9C51E759479834528DB299BA";Consejo Superior de Investigaciones Científicas;;258
+310;http://www.fbg.ub.es/;Formación continuada en ciencias de la salud (Universidad de Barcelona);;258
+311;http://www.ine.es/;Instituto Nacional de Estadistica;;258
+312;http://www.oepm.es;Oficina Española de Patentes y Marcas;;258
+314;http://www.osakidetza.euskadi.net/r85-pkoste02/es/contenidos/informacion/osteba_presentacion/es_osteba/osteba_presentacion.html;OSTEBA (Servicio de Evaluación de Tecnologías Sanitarias del País Vasco);;258
+317;http://www.bmgesundheit.de/;Alemania. Federal Ministry of Health;;259
+319;http://www.health.fgov.be/;Belgica. Ministere des Affaires sociales, de la Santé publique et de I'Environment;;259
+320;http://www.sum.dk/;Dinamarca. The Danish Ministry of Health;;259
+321;http://www.vn.fi/stm/;Finlandia. Ministry of socials affairs and Health;;259
+322;http://www.sante.gouv.fr/;Francia. Ministère de la Santè;;259
+323;http://www.minvws.nl/;Holanda. Ministry of Health, Welfare and Sport;;259
+324;http://www.doh.ie/;Irlanda. Departament of Health and children;;259
+325;http://www.sanita.it/;Italia. Ministero della Sanitá;;259
+326;http://www.etat.lu/MS/;Luxemburgo. Ministère de la Santè;;259
+327;http://www.min-saude.pt/;Portugal. Ministério da Saúce;;259
+328;http://www.doh.gov.uk/;Reino Unido. Departament of Health;;259
+330;http://www.who.int/es/;Organización Mundial de la Salud (OMS);;260
+331;http://www.fda.gov/;Food and Drug Administration. USA.;;260
+332;http://www.fao.org/;Food and Agriculture Organization (FAO);;260
+333;http://www.cdc.gov/;Centers for Disease Control and Prevention;;260
+334;http://www.unesco.org/;UNESCO: United Nations Educational, Scientific and Cultural Organizations;;260
+335;http://www.paho.org/default_spa.htm;Organización Panamericana de la Salud;;260
+336;En la Red;En la Red;;236
+337;Andalucía;Andalucía;;236
+338;Nacionales;Nacionales;;236
+339;Internacionales;Internacionales;;236
+340;http://www.rediris.es/;Red Iris;;336
+342;http://www.andaluciajunta.es/BOJA;Boletín Oficial de la Junta de Andalucía (BOJA);;337
+343;http://www.ceseand.cica.es/;Centro de Enlace del Sur de Europa - Andalucía (CESEAND);;337
+344;http://www.cica.es/;Centro Informático Científico de Andalucía (CICA);;337
+346;http://www.easp.es;Escuela Andaluza de Salud Pública;;337
+347;http://www.juntadeandalucia.es/institutodeestadisticaycartografia;Instituto de Estadística y Cartografía de Andalucía;;337
+349;http://www.us.es/;Universidad de Sevilla;;337
+350;http://www.uco.es/;Universidad de Córdoba;;337
+351;http://www.uma.es/;Universidad de Málaga;;337
+352;http://www.ugr.es/;Universidad de Granada;;337
+353;http://www.ujaen.es/;Universidad de Jaén;;337
+354;http://www.ual.es/;Universidad de Almería;;337
+355;http://www.uca.es/;Universidad de Cádiz;;337
+356;http://www.uhu.es/;Universidad de Huelva;;337
+358;http://www-cicancer.usal.es/;Centro de Investigación del Cáncer (CiC);;338
+359;http://www.iibb.csic.es/;Instituto de Investigaciones Biomédicas de Barcelona (IIBB);;338
+360;http://www.boe.es/;Boletín Oficial del Estado (BOE);;338
+362;http://www.isciii.es/;Instituto de Salud Carlos III;;338
+367;http://www.mayo.edu/;Mayo Clinic;;339
+368;http://www.ncbi.nlm.nih.gov/;National Center for Biotechnology Information;;339
+372;http://www.asci-jci.org/;American Society for Clinical Investigation - ASCI;;339
+373;http://www.aaas.org/;American Association for the advancement of Science;;339
+376;http://www.fulbright.es/;Comisión Fullbright;;339
+379;http://www.asanec.org/;Asociación Andaluza de Enfermería Comunitaria;;237
+380;http://www.ecodigest.org/;Asociación de Ecografía digestiva;;237
+381;http://www.aeed.org/;Asociación Española de Endoscopia digestiva;;237
+382;http://www.aeeh.org/;Asociación Española para el Estudio del Hígado;;237
+383;http://www.aecp-es.org/;Asociación Española de Coloproctología;;237
+384;http://www.ocenf.org/;Consejo General de Enfermería;;237
+385;http://www.consejodentistas.es/;Consejo General de Odontólogos y Estomatólogos;;237
+386;http://www.cop.es/;Colegio Oficial de Psicólogos;;237
+387;http://www.faecap.com/;Federación de Asociaciones y Sociedades de Enfermería Comunitaria y Atención Primaria;;237
+388;http://www.portalfarma.com/;Organización farmacéutica colegial;;237
+389;http://www.colvet.es/;Organización Colegial Veterinaria Española;;237
+390;http://www.cgcom.org/;Organización Médica Colegial;;237
+394;http://www.safh.org/;Sociedad Andaluza de Farmacéuticos de Hospital;;237
+395;http://www.sagg.org/;Sociedad Andaluza de Geriatría y Gerontología;;237
+396;http://www.samfyc.es;Sociedad Andaluza de Medicina Familiar y Comunitaria;;237
+397;http://www.soanne.com/;Sociedad Andaluza de Neurocirugía;;237
+398;http://www.sapd.es/;Sociedad Andaluza de Patología digestiva;;237
+399;http://www.secardiologia.es/;Sociedad Española de Cardiología;;237
+400;http://cirugia-plastica.org/;Sociedad Española de Cirugía Plástica, Reparadora y Estética;;237
+401;http://www.sefh.es/;Sociedad Española de Farmacia Hospitalaria;;237
+402;http://www.semes.org;Sociedad Española de Medicina de Urgencias y Emergencias;;237
+407;http://www.bne.es/;Biblioteca Nacional;;238
+409;http://www.csic.es/cbic/webuni.htm;Directorio de bibliotecas Universitarias (CSIC);;238
+410;http://www.uv.es/biblios/webs/web_Espa.html;Directorio de bibliotecas Españolas (UV);;238
+412;http://lcweb.loc.gov/;Library of Congress;;238
+413;http://www.nlm.nih.gov/;National Library of Medicine;;238
+415;http://www.library.ucsf.edu/;UCSF Library;;238
+417;http://www.bbc.co.uk/health/;BBC Health;;239
+419;http://www.cnn.com/HEALTH/;CNN Health;;239
+420;http://cnnenespanol.com/salud;CNN Salud;;239
+421;http://www.diariomedico.com/;Diario Médico;;239
+422;http://www.elmundosalud.com/elmundosalud/;El Mundo Salud;;239
+425;enlacesCID_AH;Cooperación para el desarrollo;;
+429;http://ec.europa.eu/index_es.htm;Comisión Europea;;425
+431;http://www.csic.es/web/guest/home;Consejo Superior de Investigaciones Científicas;;425
+436;http://www.un.org/spanish;Naciones Unidas;;425
+471;enlaces_prof;Profesionales;;
+505;enlaces_CMBDA;CMBDA y la CIE9MC;;471
+526;http://www.juntadeandalucia.es/institutodeadministracionpublica/;Instituto Andaluz de Administración Pública;;337
+1802;;Hospital Universitario Virgen de las Nieves;;24
+1807;;Hospital Infanta Elena;;24
+1823;;Área de gestión sanitaria Este de Málaga-Axarquía;;30
+1832;;Área de gestión sanitaria Campo de Gibraltar;;30
+1833;;Área de gestión sanitaria Norte de Málaga;;30
+1835;;Área de gestión sanitaria Norte de Almería;;30
+1837;;Área de gestión sanitaria Norte de Cádiz;;30
+1839;;Área de gestión sanitaria Sur de Córdoba;;30
+1842;;Área de gestión sanitaria Sur de Sevilla;;30
+2139;http://www.samiuc.es;Sociedad Andaluza de Medicina Intensiva Urgencias y Coronarias;;237
+3145;http://www.fed-alandalus.es;Federación Andaluza de Consumidores y Amas de Casa AL-ANDALUS;;231
+3146;http://www.facua.org;Federación de Asociaciones de Consumidores y Usuarios de Andalucía FACUA;;231
+3147;http://www.uniondeconsumidores.com;Unión de Consumidores de Andalucía-UCE;;231
+5134;http://www.iavantefundacion.com;Fundación Iavante;;337
+6220;http://www.seap.es/;Sociedad Española de Anatomía Patológica;;237
+6925;http://www.enfermeriadeurgencias.com;Sociedad Española de Enfermería de Urgencias y Emergencias (SEEUE);;237
+7022;http://www.sedolor.es;Sociedad Española del Dolor;;237
+7213;http://www.semfyc.es;Sociedad Española de Medicina de Familia y Comunitaria;;237
+7284;http://www.sefap.org;Sociedad Española de Farmacéuticos de Atención Primaria;;237
+7565;http://www.saei.org/;Sociedad Andaluza de Enfermedades Infecciosas;;237
+7579;http://www.aecid.es/es/;Agencia Española de Cooperación Internacional;;425
+7580;http://www.acnur.org;Alto Comisionado de Naciones Unidas para los Refugiados;;425
+7581;http://www.derechos.org/esp.html;Derechos Humanos;;425
+7584;http://www.easp.es/web/cadime/index.asp?idCab=304::idSub=14530::idSec=303;Centro Andaluz de Documentación e Información de Medicamentos (CADIME);;238
+7585;http://www.easp.es/es/content/otras-unidades/biblioteca;Escuela Andaluza de Salud Pública. Biblioteca;;238
+7586;http://www.ariadne.ac.uk/issue1/omni/;Organising Medical Networked information;;238
+7587;http://www.alergosur.com;Sociedad Andaluza de Alergología e Inmunología Clínica;;237
+7589;http://www.csermeg.it/;Centro Studi e Ricerche in Medicina Generale - CSeRMEG;;339
+7590;http://www.napcrg.org/;North American Primary Care Research Group;;339
+7591;http://www.mrc.ac.uk;Medical Research Council;;339
+7594;http://www.juntadeandalucia.es/salud/servicios/orgdep/AETSA/default.asp;AETSA: Agencia de Evaluación de Tecnologías sanitarias de Andalucía;;337
+7596;http://www.ont.es;Organización Nacional de Trasplantes;;258
+7597;http://www.madrid.org/cs/Satellite?cid=1142494649964::language=es::pagename=PortalSalud%2FPage%2FPTSA_pintarContenidoFinal::vest=1142494649964;Agencia de Evaluación de Tecnologías Sanitarias (Madrid);;258
+7599;http://www.larioja.org/npRioja/default/defaultpage.jsp?idtab=25852;Consejería de Salud y Servicios Sociales. La Rioja;;258
+7600;http://www.cantabria.es;Consejería de Salud y Bienestar. Cantabria;;258
+7601;http://www.sergas.es/;Consellería de Sanidade e Servicios Sociais. Xunta de Galicia;;258
+7602;http://www.gobiernodecanarias.org/sanidad/;Consejería de Sanidad. Gobierno de Canarias;;258
+7603;http://www.castillalamancha.es/gobierno/sanidadyasuntossociales;Consejería de Sanidad de Castilla La Mancha;;258
+7607;http://www.adima.com.es/;Asociación Andaluza para la Defensa de la Infancia y la Prevención de los Malos Tratos (ADIMA);;234
+7609;http://www.trasdocar.org;Asociación de Trasplantados, Donantes y Cardiacos (Trasdocar);;234
+7656;http://www.sefm.es;Sociedad Española de Física Médica;;237
+7730;http://www.sanidad.jcyl.es/sanidad/cm;Consejería de Sanidad y bienestar Social. Junta de Castilla y León;;258
+7731;http://www.murciasalud.es/principal.php;Región de Murcia. Sanidad y Consumo;;258
+7732;http://www.aspb.es/;Agència de Salut Pública de Barcelona;;258
+7735;http://www.caib.es/govern/organigrama/area.es.jsp?coduo=11;Conselleria de Salut y Consum. Islas Baleares;;258
+7736;http://www.caib.es/govern/organigrama/area.do?lang=ca::coduo=273;Servicio de Salud. Islas Baleares;;258
+7915;http://www.aathsevilla.com/;Asociación Andaluza de Trasplantados Hepáticos;;234
+7916;http://www.canfcocemfe.org;Confederación Andaluza de Personas con Discapacidad Física y Orgánica;;234
+7918;http://www.juntaex.es/consejerias/sanidad-dependencia/index-ides-idweb.html;Consejería de Sanidad y Dependencia. Junta de Extremadura;;258
+7920;http://www.cdc.gov/spanish/;Centros para el Control y la Prevención de Enfermedades;;260
+8014;http://casajoven.org.es/index.php;Asociación para la Detección e Intervención Precoz de Trastornos Mentales y Disociales en Niños y Adolescentes;;234
+8103;http://www.fedema.org;Federación de Asociaciones de Esclerosis Múltiple de Andalucía;;234
+8104;http://www.emsevilla.org;Asociación Sevillana de Esclerosis Múltiple;;234
+8139;http://www.juntadeandalucia.es/aacid/index.php/agencia;Agencia Andaluza de Cooperación Internacional (AACI);;425
+8188;http://www.sarh.es;Sociedad Andaluza de Radiofísica Hospitalaria (SARH);;237
+8192;http://www.cgtrabajosocial.es;Colegio Oficial de Diplomados/as en Trabajo Social;;237
+8201;http://www.aeped.es;Asociación Española de Pediatría;;237
+8202;http://www.aepap.org;Asociación Española de Pediatría de Atención Primaria;;237
+8237;http://www.enfermeriadeltrabajo.com;Asociación de Especialistas en Enfermería del Trabajo;;237
+8551;http://www.ahrq.gov;Agency for Health Care Research and Quality (AHRQ);;505
+8552;http://www.ahima.org;American Health Information Management Association (AHIMA);;505
+8553;http://www.cdc.gov/nchs/icd/icd9cm.htm;Centres for Disease Control and Prevention. (CDC) Classification of Diseases, Functioning, and Disability;;505
+8554;http://www.cdc.gov/nchs/nhds.htm;Centres for Disease Control and Prevention. (CDC). National Hospital Discharge Survey;;505
+8555;http://www.cms.hhs.gov;Centres for Medicare & Medicaid services (CMS).;;505
+8556;http://www.channelpublishing.com;Channel Publishing;;505
+8557;http://www.ahrq.gov/data/hcup/;Healthcare Cost & Utilization Project (HCUP);;505
+8558;http://icd9cm.chrisendres.com/;ICD9CM on line and Medical Dictionary;;505
+8559;http://www.cindoc.csic.es;Instituto de Estudios Documentales sobre ciencia y tecnología (IEDCYT);;505
+8560;http://www.isciii.es//;Instituto de Salud Carlos III (ISCIII);;505
+8561;http://www.who.int/classifications/icd/en/;International Classification of Diseases (ICD) (WHO);;505
+8562;http://www.msps.es/estadEstudios/estadisticas/sisInfSanSNS/home.htm;Ministerio de Sanidad y Política Social e Igualdad;;505
+9284;http://www.accumalaga.es;ACCU Málaga. Asociación de enfermos de crohn y colitis ulcerosa;;234
+9494;http://www.scsalud.es;Servicio Cántabro de Salud. Cantabria;;258
+9500;http://www.melilla.es/melillaportal/lacc_d3_v1.jsp?codMenu=2::language=es;Consejería de bienestar social y sanidad Ciudad Autónoma de Melilla;;258
+9727;http://www.semergen.es;Sociedad Española de Médicos de Atención Primaria;;237
+9728;http://semergenandalucia.org;Sociedad Española de Médicos de Atención Primaria de Andalucía;;237
+9877;http://www.aesopspain.org;Asociación Española de Síndrome de Ovarios Poliquísticos;;234
+10714;http://www.unicef.es/;Unicef;;425
+10715;http://www.un.org/es/humanitarian/;Oficina de Coordinación de Asuntos Humanitarios (OCHA);;425
+16412;;Hospital Puerta del Mar;;24
+16427;;Hospital Reina Sofía;;24
+16435;;Hospital Infanta Margarita (AGS Sur de Córdoba);;24
+16447;;Hospital de Baza (AGS Nordeste Granada);;24
+16454;;Complejo Hospitalario de Jaén;;24
+16465;;Hospital Regional de Málaga;;24
+16470;;Hospital Axarquía (AGS Este de Málaga-Axarquía);;24
+16471;;Hospital Virgen de la Victoria;;24
+16477;;Hospital Virgen del Rocío;;24
+16485;;Hospital Virgen Macarena;;24
+16490;;Hospital Virgen de Valme (AGS Sur de Sevilla);;24
+16497;;Complejo hospitalario Torrecárdenas;;24
+16503;;Centro de transfusión, tejidos y células de Córdoba;;28
+16507;;Centro de transfusión, tejidos y células de Málaga;;28
+16508;;Centro de transfusión, tejidos y células de Sevilla;;28
+25168;;Unidad de Salud Mental Comunitaria Vélez Málaga;;27
+25216;;Hospital Alto Guadalquivir de Andújar;;24
+25226;;Empresa Pública de Emergencias Sanitarias;;31
+25229;;Servicio Andaluz de Salud;;33
+25445;;Hospital de Día de Salud Mental La Axarquía;;27
+25490;;Hospital de Alta Resolución de Puente Genil;;24
+25491;;Hospital de Alta Resolución Sierra de Segura;;24
+25492;;Hospital de Alta Resolución de Alcaudete;;24
+25493;;Hospital de Montilla;;24
+25494;;Hospital de Alta Resolución Valle del Guadiato;;24
+25524;;Hospital de Poniente-El Ejido;;24
+25532;;Hospital Costa del Sol;;24
+25559;;Hospital de Alta Resolución de Alcalá La Real;;24
+25562;;Consejería de Salud;;33
+25564;;Agencia Pública Empresarial Sanitaria Bajo Guadalquivir;;32
+25565;;Agencia Pública Empresarial Sanitaria Hospital de Poniente de Almería;;32
+25566;;Agencia Pública Empresarial Sanitaria Alto Guadalquivir;;32
+25567;;Agencia Pública Empresarial Sanitaria Costa del Sol;;32
+25622;;Edificio Consultas Externas Reina Sofía;;25
+25623;;C.P.E. Carlos Castilla del Pino;;25
+30000;;Agencia de Evaluación de Tecnologías Sanitarias de Andalucía;;33
+30001;;Agencia de Calidad Sanitaria de Andalucía;;33
+30002;;Escuela Andaluza de Salud Pública;;33
+30003;;Fundación Andaluza para la Integración Social del Enfermo Mental;;33
+30004;;Fundación Progreso y Salud;;33
+31495;;Hospital Universitario San Cecilio;;24
